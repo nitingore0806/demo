@@ -6,6 +6,7 @@ public class MavenTest {
 
 	@Test(groups="bbb")
 	public void m1() {
+		int i = 12;
 		System.out.println("inside m1");
 	}
 	@Test
